@@ -18,3 +18,4 @@ message: "If you use this software or partial code, please cite it as below."
 title: "SSPC Clear sky model code"
 version: "1.0.0"
 date-released: 2021-10-25
+url: "https://github.com/SanchezCD/SSPC"
