@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 authors:
   -
-    family-names: "César D."
-    given-names: "Sánchez-Segura"
+    family-names: "Sánchez-Segura"
+    given-names: "César D."
     orcid: "https://orcid.org/0000-0001-7895-2317"
   -
-    family-names: "Manuel I."
-    given-names: "Peña-Cruz"
+    family-names: "Peña-Cruz"
+    given-names: "Manuel I."
     orcid: "https://orcid.org/0000-0002-9184-3155"
 cff-version: "1.1.0"
 keywords:
