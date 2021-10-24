@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-authors: 
+authors:
   -
     family-names: "César D."
     given-names: "Sánchez-Segura"
@@ -9,7 +9,7 @@ authors:
     given-names: "Peña-Cruz"
     orcid: "https://orcid.org/0000-0002-9184-3155"
 cff-version: "1.1.0"
-keywords: 
+keywords:
   - "Clear sky model"
   - "Renewable energies"
   - "Solar energy"
